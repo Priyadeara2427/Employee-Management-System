@@ -46,4 +46,3 @@ Feel free to modify and extend the system to meet your company’s needs! 😊
 
 # Contributors 
 1. Priya Verma
-2. Pankaj Singh
