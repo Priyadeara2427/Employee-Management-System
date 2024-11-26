@@ -44,5 +44,5 @@ To run this project smoothly, you will need:
 
 Feel free to modify and extend the system to meet your company’s needs! 😊
 
-# Contributors 
-1. Priya Verma
+# Authors
+* Priya Verma
